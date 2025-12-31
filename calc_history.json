@@ -1,0 +1,32 @@
+[
+  {
+    "expr": "100.5 AED\u2192INR",
+    "result": 2286.58038147139,
+    "type": "currency"
+  },
+  {
+    "expr": "sqrt(36)",
+    "result": 6.0,
+    "type": "math"
+  },
+  {
+    "expr": "5.7 km\u2192m",
+    "result": 5700.0,
+    "type": "unit"
+  },
+  {
+    "expr": "95.0 C\u2192F",
+    "result": 203.0,
+    "type": "unit"
+  },
+  {
+    "expr": "300.0 AED\u2192INR",
+    "result": 6825.613079019074,
+    "type": "currency"
+  },
+  {
+    "expr": "22.3 * 55.0",
+    "result": 1226.5,
+    "type": "math"
+  }
+]
